@@ -20,7 +20,11 @@ namespace horse_racing
             Horses = horses;
             Name = name;
         }
-
+        public Hipodrom(int mesafe, string name)
+        {
+            Mesafe = mesafe;
+            Name = name;
+        }
 
         public void start()
         {

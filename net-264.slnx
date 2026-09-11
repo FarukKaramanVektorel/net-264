@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="11-09-2026/SayisalLoto.csproj" />
-  <Project Path="horse-racing/horse-racing.csproj" />
+  <Project Path="11-09-2026/SayisalLoto.csproj" Id="a82cc393-89f1-4f45-b672-e0b5d29783bf" />
+  <Project Path="horse-racing/horse-racing.csproj" Id="26808b48-125e-47ce-8b1d-91a4a76ef500" />
+  <Project Path="OOP-Inheritance/OOP-Inheritance.csproj" Id="aecafecf-32bf-4b88-a9d6-109d870f1e98" />
 </Solution>
