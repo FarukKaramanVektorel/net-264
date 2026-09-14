@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AECAFECF-32BF-4B88-A9D6-109D870F1E98}</ProjectGuid>
+    <ProjectGuid>{F9795FE9-3CA8-4F42-83E3-F336DE5FB182}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OOP_Inheritance</RootNamespace>
-    <AssemblyName>OOP-Inheritance</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Category.cs" />
-    <Compile Include="CleanCategory.cs" />
-    <Compile Include="GidaCategory.cs" />
-    <Compile Include="GiyimCategory.cs" />
-    <Compile Include="Product.cs" />
+    <Compile Include="Canon.cs" />
+    <Compile Include="Fotografci.cs" />
+    <Compile Include="FotografMakinasi.cs" />
+    <Compile Include="IFotoMachine.cs" />
+    <Compile Include="IMp3Player.cs" />
+    <Compile Include="IVideoPlayer.cs" />
+    <Compile Include="Kalem.cs" />
+    <Compile Include="Nikkon.cs" />
+    <Compile Include="Phone.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sell.cs" />
+    <Compile Include="SmartPhone.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
