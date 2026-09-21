@@ -1,8 +1,16 @@
 <Solution>
   <Project Path="11-09-2026/SayisalLoto.csproj" Id="a82cc393-89f1-4f45-b672-e0b5d29783bf" />
+  <Project Path="AnonymousType/AnonymousType.csproj" Id="792e13fb-6c07-406b-858f-e828cd5d9de8" />
+  <Project Path="Collections/Collections.csproj" Id="e0174442-f772-4162-9975-f5a0c2da3fcf" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="f9795fe9-3ca8-4f42-83e3-f336de5fb182" />
+  <Project Path="Delegate/Delegate.csproj" Id="8cb3b443-a891-4d29-bb16-cc6dcc9e9664" />
   <Project Path="EmployeeSystem/EmployeeSystem.csproj" Id="9206d409-43ad-4beb-b453-bdcfe02f25eb" />
+  <Project Path="Enums/Enums.csproj" Id="ebb51855-16c9-4786-a48c-7cdfabade560" />
+  <Project Path="Generics/Generics.csproj" Id="9e7a523c-ffa3-4e65-a653-7c9398772a02" />
+  <Project Path="Generics2/Generics2.csproj" Id="dda93a6c-5911-447e-9b0a-415ea79f14f4" />
   <Project Path="horse-racing/horse-racing.csproj" Id="26808b48-125e-47ce-8b1d-91a4a76ef500" />
+  <Project Path="Lamda/Lamda.csproj" Id="5caf4841-4eec-4719-b444-838e48660571" />
+  <Project Path="Linq/Linq.csproj" Id="0fe40f9b-f918-491e-ba83-bb2da66164be" />
   <Project Path="OOP-Inheritance/OOP-Inheritance.csproj" Id="aecafecf-32bf-4b88-a9d6-109d870f1e98" />
   <Project Path="OOP-İnheritance2/OOP-Inheritance2.csproj" Id="f5efab93-5380-4295-a88a-bfd855256cd3" />
 </Solution>
