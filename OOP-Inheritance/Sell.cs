@@ -9,11 +9,12 @@ namespace OOP_Inheritance
     internal class Sell
     {
 
-        public void sell(Product product)// uses a
+        public void sell(Product product) // uses a
         {
             if (product != null)
             {
-                Console.WriteLine(product.Name+ " satıldı...");
+                Console.WriteLine(product.Name + " satıldı...");
             }
+        }
     }
 }

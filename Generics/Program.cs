@@ -22,9 +22,7 @@ namespace Generics
             delegate void Islem(int sayi);
 
 
-            Islem islem = KareAl;
-
-            islem(5);
+           
 
         }
         static void KareAl(int sayi)

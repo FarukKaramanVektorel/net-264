@@ -11,6 +11,7 @@
   <Project Path="horse-racing/horse-racing.csproj" Id="26808b48-125e-47ce-8b1d-91a4a76ef500" />
   <Project Path="Lamda/Lamda.csproj" Id="5caf4841-4eec-4719-b444-838e48660571" />
   <Project Path="Linq/Linq.csproj" Id="0fe40f9b-f918-491e-ba83-bb2da66164be" />
+  <Project Path="Linq2/Linq2.csproj" Id="85f75363-639f-4877-b863-91050046e88a" />
   <Project Path="OOP-Inheritance/OOP-Inheritance.csproj" Id="aecafecf-32bf-4b88-a9d6-109d870f1e98" />
   <Project Path="OOP-İnheritance2/OOP-Inheritance2.csproj" Id="f5efab93-5380-4295-a88a-bfd855256cd3" />
 </Solution>
